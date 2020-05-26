@@ -1,6 +1,6 @@
-String miFuncion2(String nombre, num edad)=>'Nombre:$nombre, Edad:$edad';
+String miFuncion(String nombre, num edad)=>'Nombre:$nombre, Edad:$edad';
 
 main(){
-  var cadena=miFuncion2("Kali",21);
+  var cadena=miFuncion("Kali",21);
   print(cadena);
 }

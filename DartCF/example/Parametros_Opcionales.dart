@@ -1,6 +1,8 @@
-String miFuncion2(String nombre, num edad)=>'Nombre:$nombre, Edad:$edad';
+int operacion(int x, [int y=0]) {
+  return x+y;
+}
 
 main(){
-  var cadena=miFuncion2("Kali",21);
-  print(cadena);
+   var suma=operacion(10);
+   print(suma);
 }
