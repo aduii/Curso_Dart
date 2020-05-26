@@ -1,6 +1,18 @@
 import 'package:DartCF/DartCF.dart';
 
-void main() {
-  var awesome = Awesome();
-  print('awesome: ${awesome.isAwesome}');
+main() {
+  //number int-double
+  //String
+  //booleans
+  //lists
+  //maps
+
+  //runes
+  //symbols
+  num a=10;
+  num b=5.55;
+
+  int x=1;
+  double y=2.5;
+
 }
